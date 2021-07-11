@@ -1,0 +1,89 @@
+{
+    "href": "https: //api.spotify.com/v1/me/tracks?offset=0&limit=1&market=US",
+    "items": [
+        {
+            "added_at": "2021-06-23T11:34:48Z",
+            "track": {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+                            "id": "1FvjvACFvko2Z91IvDljrx",
+                            "name": "Mick Jenkins",
+                            "type": "artist",
+                            "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5UwoNjOPVBSOlAQU8AfvGE"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5UwoNjOPVBSOlAQU8AfvGE",
+                    "id": "5UwoNjOPVBSOlAQU8AfvGE",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730f6783077f11b8c53a96d199",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e020f6783077f11b8c53a96d199",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048510f6783077f11b8c53a96d199",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Truffles",
+                    "release_date": "2021-06-23",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:5UwoNjOPVBSOlAQU8AfvGE"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1FvjvACFvko2Z91IvDljrx",
+                        "id": "1FvjvACFvko2Z91IvDljrx",
+                        "name": "Mick Jenkins",
+                        "type": "artist",
+                        "uri": "spotify:artist:1FvjvACFvko2Z91IvDljrx"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 195000,
+                "explicit": "True",
+                "external_ids": {
+                    "isrc": "QMKSC2101631"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6YasuOZcSrwQvHNbsxuPPW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6YasuOZcSrwQvHNbsxuPPW",
+                "id": "6YasuOZcSrwQvHNbsxuPPW",
+                "is_local": "False",
+                "is_playable": "True",
+                "name": "Truffles",
+                "popularity": 60,
+                "preview_url": "https://p.scdn.co/mp3-preview/e9d0c210a366631204943313e65f3790ba05f7a4?cid=fb9e49e0f71a44ae8e24164b4622e679",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:6YasuOZcSrwQvHNbsxuPPW"
+            }
+        }
+    ],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/me/tracks?offset=1&limit=1&market=US",
+    "offset": 0,
+    "previous": "None",
+    "total": 621
+}
